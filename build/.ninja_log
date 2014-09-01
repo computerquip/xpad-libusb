@@ -36,3 +36,9 @@
 0	14	0	xpad360.dir/xpad360_usb.c.o	c4acecd1babc9781
 14	43	0	xpad360	d6a67149ae080795
 0	11	0	clean	3a3fc50a1a5fbf2b
+1	12	0	xpad360.dir/xpad360_threadpool.c.o	1fd24b1e224e4a4
+0	13	0	xpad360.dir/xpad360_usb.c.o	c4acecd1babc9781
+13	40	0	xpad360	d6a67149ae080795
+0	10	0	xpad360.dir/xpad360_threadpool.c.o	1fd24b1e224e4a4
+0	14	0	xpad360.dir/xpad360_usb.c.o	c4acecd1babc9781
+15	44	0	xpad360	d6a67149ae080795
